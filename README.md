@@ -1,4 +1,6 @@
-# paper
+# 待看paper
+  
+  Consensus Attention-based Neural Networks for Chinese Reading
 
 ## tutorial
 
