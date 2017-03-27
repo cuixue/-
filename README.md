@@ -12,4 +12,5 @@
 * https://www.microsoft.com/en-us/research/blog/microsoft-nlp-researchers-converge-acl-2016-edging-ever-closer-human-like-conversational-experiences/
 * http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
 * http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
+* http://it.sohu.com/20170201/n479762271.shtml
 
